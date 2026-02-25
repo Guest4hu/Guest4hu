@@ -21,7 +21,7 @@ const gustavo = {
 };
 ```
 
-Sou estudante de **Engenharia de Software** e **Técnico em Informática**, com experiência prática no desenvolvimento de sistemas para **clientes reais**. Tenho foco em criar aplicações completas, organizadas e escaláveis.
+Desenvolvedor em formação com experiência prática em sistemas desktop e dashboards web. Foco em backend, banco de dados e arquitetura de aplicações. Busco estágio para aplicar conhecimentos e evoluir profissionalmente na área de tecnologia.
 
 ---
 
