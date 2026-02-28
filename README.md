@@ -25,7 +25,7 @@ Desenvolvedor em formação com experiência prática em sistemas desktop e dash
 
 ---
 
-## 🏆 Projetos em Produção (Cliente Real)
+## 🏆 Projetos em Produção
 
 <table>
 <tr>
