@@ -12,13 +12,25 @@
 
 ## 👨‍💻 Sobre Mim
 
-```javascript
-const gustavo = {
-    formacao: "Engenharia de Software (Presencial - Noturno)",
-    tecnico: "Técnico em Informática - Senac",
-    foco: ["Sistemas Comerciais", "Aplicações Desktop", "Dashboards Administrativos"],
-    objetivo: "Primeira oportunidade como Desenvolvedor Júnior ou Estagiário"
-};
+```java
+public class Gustavo {
+    String formacao = "Engenharia de Software (Presencial - Noturno)";
+    String tecnico = "Técnico em Informática - Senac";
+    String[] foco = {"Sistemas Comerciais", "Aplicações Desktop", "Dashboards Administrativos"};
+    String objetivo = "Primeira oportunidade como Desenvolvedor Júnior ou Estagiário";
+
+    public static void main(String[] args) {
+        Gustavo gustavo = new Gustavo();
+
+        System.out.println("Formação: " + gustavo.formacao);
+        System.out.println("Técnico: " + gustavo.tecnico);
+        System.out.println("Foco:");
+        for (String f : gustavo.foco) {
+            System.out.println("- " + f);
+        }
+        System.out.println("Objetivo: " + gustavo.objetivo);
+    }
+}
 ```
 
 Desenvolvedor em formação com experiência prática em sistemas desktop e dashboards web. Foco em backend, banco de dados e arquitetura de aplicações. Busco estágio para aplicar conhecimentos e evoluir profissionalmente na área de tecnologia.
